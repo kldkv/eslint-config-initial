@@ -343,10 +343,7 @@ module.exports = {
     'quote-props': OFF,
 
     // url: https://eslint.org/docs/rules/no-unused-vars
-    'no-unused-vars': OFF{
-      // React или любая буква (для дженериков во флоу)
-      varsIgnorePattern: 'React|^\\w$'
-    }],
+    'no-unused-vars': OFF,
 
     // url: https://eslint.org/docs/rules/accessor-pairs
     'accessor-pairs': OFF,
