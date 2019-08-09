@@ -107,5 +107,8 @@ module.exports = {
 
     // url: https://github.com/jest-community/eslint-plugin-jest/blob/master/docs/rules/no-duplicate-hooks.md
     'no-duplicate-hooks': OFF,
+
+    // url: https://github.com/jest-community/eslint-plugin-jest/blob/master/docs/rules/no-expect-resolves.md
+    'no-expect-resolves': OFF,
   },
 };
