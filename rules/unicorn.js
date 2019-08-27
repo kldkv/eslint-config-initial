@@ -110,5 +110,8 @@ module.exports = {
 
     // url: https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/prevent-abbreviations.md
     'unicorn/prevent-abbreviations': OFF,
+
+    // url: https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/no-keyword-prefix.md
+    'unicorn/no-keyword-prefix': OFF,
   },
 };

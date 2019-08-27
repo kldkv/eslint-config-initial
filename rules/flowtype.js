@@ -110,5 +110,8 @@ module.exports = {
 
     // url: https://github.com/gajus/eslint-plugin-flowtype#require-readonly-react-props
     'flowtype/require-readonly-react-props': OFF,
+
+    // url: https://github.com/gajus/eslint-plugin-flowtype#require-indexer-name
+    'flowtype/require-indexer-name': OFF,
   },
 };
