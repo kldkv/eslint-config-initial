@@ -29,8 +29,6 @@ npm i --save-dev eslint-config-initial
 - [security](https://github.com/nodesecurity/eslint-plugin-security)
 - [sort-class-members](https://github.com/bryanrsmith/eslint-plugin-sort-class-members)
 - [flowtype](https://github.com/gajus/eslint-plugin-flowtype)
-- [prettier](https://github.com/prettier/eslint-config-prettier) (not checked)
-- [tslint](https://github.com/typescript-eslint/typescript-eslint) (not checked)
 
 ## example
 `.eslintrc`
@@ -49,8 +47,3 @@ npm i --save-dev eslint-config-initial
   }
 }
 ```
-
-
-## todo
-
-- update to `eslint@^6.0.0` (wait other plugins)
