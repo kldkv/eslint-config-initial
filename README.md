@@ -1,4 +1,4 @@
-# eslint-initial
+# eslint-config-initial
 Turned off eslint rules for popular plugin for smooth integration.
 
 ## install
