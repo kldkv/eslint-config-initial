@@ -77,5 +77,8 @@ module.exports = {
 
     // url: https://github.com/mysticatea/eslint-plugin-node/blob/master/docs/rules/prefer-promises/fs.md
     'node/prefer-promises/fs': OFF,
+
+    // url: https://github.com/mysticatea/eslint-plugin-node/blob/master/docs/rules/no-exports-assign.md
+    'node/no-exports-assign': OFF,
   },
 };
